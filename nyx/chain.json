@@ -19,8 +19,8 @@
     ]
   },
   "codebase": {
-    "git_repo": "https://github.com/nymtech/nym/",
-    "recommended_version": "v.1.1",
+    "git_repo": "https://github.com/nymtech/nyxd/",
+    "recommended_version": "v0.26.1",
     "compatible_versions": [
       "v1.0"
     ],
